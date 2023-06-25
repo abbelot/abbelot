@@ -6,9 +6,12 @@ My name is Amanda Björk and I'm studying full-stack development at Mittuniversi
 
 ### About me
 
-Currently while I'm studying I also work as a Biomedical scientist in Kalmar where I've lived for the past 8 years. I moved here to study and have stayed put since I got hired after graduation.
+Currently while I'm studying I also work as a Biomedical scientist in Linköping where I moved this year.
 
-I would describe myself as hardworking who is eager to constantly learn new things.
+I would describe myself as hardworking who is eager to constantly learn new things, analytical and very creative.
+
+- I'm currently working on some small projects for my portfolio.
+- I'm currently learning React framework.
 
 
 <!--
